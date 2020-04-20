@@ -1,0 +1,177 @@
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #1e1e1e;
+}
+nav {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+}
+ul{
+ 
+}
+ul li {
+  list-style: none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
+}
+ul li a {
+  display: block;
+text-decoration: none;
+font-size: 20px;
+font-family: Arial;
+color: #1e1e1e;
+padding: 0 20px;
+}
+ul li a:hover {
+color:red;
+}
+.info {
+color: #fff;
+text-decoration: none;
+font-size: 20px;
+font-family: Arial;
+margin: 5px;
+padding: 5px;
+}
+.caption{
+  color: red;
+}
+ol{
+
+}
+ol li{
+  margin: 5px;
+  padding: 5px;
+}
+.Xbox{
+  position: relative;
+  top: 30px;
+  width: 500px;
+  height: 500px;
+}
+.Ps5{
+  margin: 30px;
+  padding: 30px;
+  width: 500px;
+  height: 500px;
+}
+.Last{
+ margin: 30px;
+ padding: 30px;
+ width: 550px;
+ height: 550px;
+}
+.Ghost{
+ position: relative;
+ top: 30px;
+ width: 550px;
+ height: 550px;
+}
+.Ps{
+  position: relative;
+ top: 30px;
+ width: 300px;
+ height: 300px;
+}
+.Xbax {
+ position: relative;
+ top: 30px;
+ width: 300px;
+ height: 300px;
+}
+.Gost {
+ position: relative;
+ top: 60px;
+ width: 300px;
+ height: 300px;
+
+}
+.Lasta {
+ position: relative;
+ top: 60px;
+ width: 300px;
+ height: 300px;
+ right:30px;
+}
+h3 {
+  position: relative;
+  left: 100px;
+  top: 60px;
+  font-size: 30px;
+  
+}
+
+h4 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  font-size: 30px;
+}
+.us{
+  width:50;
+  height: 50%;
+  position: relative;
+  top: 140px;
+  left:2%;
+}
+.cantact-form {
+  width: 855;
+  max-width: 600%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px 40px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fff
+}
+.cantact-form h1{
+  margin-top: 0;
+  font-weight: 200;
+}
+
+.txt{
+  border: 1px solid gray;
+  margin: 8px 0;
+  padding: 12px 18px;
+  border-radius: 8px;
+}
+
+.txt label{
+  display: block;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.txt input, .txt textarea{
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  margin-top: 6px;
+}
+
+.Btn{
+  display: inline-block;
+  background: purple;
+  padding: 14px 0;
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 8px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.Btn:hover{
+  color: red;
+}
+</style>
